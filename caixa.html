@@ -21,7 +21,7 @@ model-viewer {
     };
     let modelViewer = document.getElementById("animated-model");
     const glTF = await modelViewer.exportScene(options);
-    var file = new File([glTF], binary ? "export.glb" : "export.gltf");
+    var file = new File([glTF], binary ? "GLBS/Caixa.glb" : "export.gltf");
     var link = document.createElement("a");
     link.download =file.name;
     link.href = URL.createObjectURL(file);
@@ -31,5 +31,5 @@ model-viewer {
 
 <!-- Use it like any other HTML element -->
 <model-viewer src="GLBS/Caixa.glb" alt="A 3D model of an astronaut" ar ar-modes="webxr scene-viewer quick-look" environment-image="neutral" auto-rotate camera-controls>
-  <button onclick="exportScene(true)">Export GLB</button>
+  <button onclick="exportScene(true)">Guardar arxiu GLB</button>
 </model-viewer>
