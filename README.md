@@ -1,18 +1,16 @@
 # ArxiusWeb
-Arxius utilitzats per desenvolupar el Wix <a href="http://example.com/" target="_blank">example</a>aa
+Arxius utilitzats per desenvolupar el Wix
 
-aaa
+<a href="https://iuriguerrero.github.io/ArxiusWeb/caixa.html" target="_blank">Caixa</a>
 
-[Caixa](https://iuriguerrero.github.io/ArxiusWeb/caixa.html)
+<a href="https://iuriguerrero.github.io/ArxiusWeb/tapacaixa.html" target="_blank">Tapa Caixa</a>
 
-[Tapa Caixa](https://iuriguerrero.github.io/ArxiusWeb/tapacaixa.html)
+<a href="https://iuriguerrero.github.io/ArxiusWeb/repisuperior.html" target="_blank">Suport Superior Raspberry Pi 3 B+</a>
 
-[Suport Superior Raspberry Pi 3 B+](https://iuriguerrero.github.io/ArxiusWeb/repisuperior.html)
+<a href="https://iuriguerrero.github.io/ArxiusWeb/rpiinferior.html" target="_blank">Suport Inferior Raspberry Pi 3 B+</a>
 
-[Suport Inferior Raspberry Pi 3 B+](https://iuriguerrero.github.io/ArxiusWeb/rpiinferior.html)
+<a href="https://iuriguerrero.github.io/ArxiusWeb/suportarduino.html" target="_blank">Suport Arduino UNO</a>
 
-[Suport Arduino UNO](https://iuriguerrero.github.io/ArxiusWeb/suportarduino.html)
+<a href="https://iuriguerrero.github.io/ArxiusWeb/sensorsuperior.html" target="_blank">Suport Superior Sensor Ultrasònic</a>
 
-[Suport Superior Sensor Ultrasònic](https://iuriguerrero.github.io/ArxiusWeb/sensorsuperior.html)
-
-[Suport Inferior Sensor Ultrasònic](https://iuriguerrero.github.io/ArxiusWeb/sensorinferior.html)
+<a href="https://iuriguerrero.github.io/ArxiusWeb/sensorinferior.html" target="_blank">Suport Inferior Sensor Ultrasònic</a>
