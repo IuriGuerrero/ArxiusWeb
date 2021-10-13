@@ -1,16 +1,16 @@
 # ArxiusWeb
 Arxius utilitzats per desenvolupar el Wix
 
-[Caixa](caixa.html)
+[Caixa](https://iuriguerrero.github.io/ArxiusWeb/caixa.html)
 
-[Tapa Caixa](tapacaixa.html)
+[Tapa Caixa](https://iuriguerrero.github.io/ArxiusWeb/tapacaixa.html)
 
-[Suport Raspberry Pi 3 B+](repisuperior.html)
+[Suport Superior Raspberry Pi 3 B+](https://iuriguerrero.github.io/ArxiusWeb/repisuperior.html)
 
-[Caixa]()
+[Suport Inferior Raspberry Pi 3 B+](https://iuriguerrero.github.io/ArxiusWeb/rpiinferior.html)
 
-[Caixa]()
+[Suport Arduino UNO](https://iuriguerrero.github.io/ArxiusWeb/suportarduino.html)
 
-[Caixa]()
+[Suport Superior Sensor Ultrasònic](https://iuriguerrero.github.io/ArxiusWeb/sensorsuperior.html)
 
-[Caixa]()
+[Suport Inferior Sensor Ultrasònic](https://iuriguerrero.github.io/ArxiusWeb/sensorinferior.html)
